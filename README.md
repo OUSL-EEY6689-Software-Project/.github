@@ -1,8 +1,7 @@
 # ELE-SCENT Organization
 
 Welcome to the **ELE-SCENT GitHub Organization**!  
-We are a multidisciplinary team of engineers, wildlife enthusiasts, and researchers working on **AI-powered solutions for elephant conservation**. Our flagship project, **ELE-SCENT**, is an innovative electronic nose (e-nose) system designed to detect and monitor wild elephants using **odor signatures, IoT, and embedded AI**.
-
+We are a multidisciplinary team of engineering students, wildlife enthusiasts, and researchers working on **AI-powered solutions for elephant conservation**. Our flagship project, **ELE-SCENT**, is an innovative system designed to detect and monitor wild elephants using **odor signatures, IoT, and embedded AI**.
 ---
 
 ## **About ELE-SCENT**
