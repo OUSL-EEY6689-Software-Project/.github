@@ -23,11 +23,11 @@ To create an **AI-powered, low-cost, and scalable solution** that protects eleph
 ---
 
 ## **Team**
-Our puervisor and valuable domain experts involved in the projects
-Supervisor: Mr. Saliya Wickramasinghe
-- Collaborators: 
-            -- Prof. 
-            -- Dr.
+Our supervisor and valuable domain experts are involved in the projects
+- Supervisor: Mr. Saliya Wickramasinghe
+### Collaborators: 
+-Prof. 
+-Dr.
 
 We are a group of 5 members with expertise in **software engineering, embedded systems, UI/UX design, and wildlife research**:
 - Akila Wanninayake – **Project Lead / Backend & Architecture**
