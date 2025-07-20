@@ -1,7 +1,7 @@
 # ELE-SCENT Organization
 
 Welcome to the **ELE-SCENT GitHub Organization**!  
-We are a multidisciplinary team of engineering students, wildlife enthusiasts, and researchers working on **AI-powered solutions for elephant conservation**. Our flagship project, **ELE-SCENT**, is an innovative system designed to detect and monitor wild elephants using **odor signatures, IoT, and embedded AI**.
+*We are a multidisciplinary team of engineering students, wildlife enthusiasts, and researchers working on **AI-powered solutions for elephant conservation**. Our flagship project, **ELE-SCENT**, is an innovative system designed to detect and monitor wild elephants using **odor signatures, IoT, and embedded AI**.*
 ---
 
 ## **About ELE-SCENT**
@@ -29,7 +29,7 @@ Our supervisor and valuable domain experts are involved in the projects
 -Prof. 
 -Dr.
 
-We are a group of 5 members with expertise in **software engineering, embedded systems, UI/UX design, and wildlife research**:
+We are a group of 5 members in domains **software engineering, embedded systems, UI/UX design, and wildlife research**:
 - Akila Wanninayake – **Project Lead / Research / Backend & Architecture**
 - Bhanuka Chathuranga – **Machine Learning & Data Processing**
 - Sampath Dissanayake – **IoT & Device Firmware and Project Management**
@@ -51,7 +51,7 @@ If you have ideas or want to contribute, please reach out to us via [GitHub Disc
 
 ## **Important Links**
 - **Research Proposal:** [docs/proposal.pdf](#)
-- **Figma UI Design (Landing Page & Dashboard):** [Link to Figma](#)
+- **Figma UI Design:** [Link to Figma](#)
 - **Research Papers & References:** [docs/references](#)
 
 ---
