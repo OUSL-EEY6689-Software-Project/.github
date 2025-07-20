@@ -6,7 +6,7 @@ We are a multidisciplinary team of engineering students, wildlife enthusiasts, a
 
 ## **About ELE-SCENT**
 - **Goal:** To reduce human-elephant conflicts (HEC) and accidental deaths (e.g., train collisions) by providing **early detection and alert systems**.
-- **Core Technology:** A **multi-sensor gas array** combined with **machine learning models** that recognize **volatile organic compounds (VOCs)** emitted by elephants.
+- **Core Technology:** A **IOT** combined with **machine learning models** that recognize elephants.
 - **Unique Feature:** A **non-visual, camera-free detection approach** that is resilient to poor visibility, weather, and low-light conditions.
 
 ---
