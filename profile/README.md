@@ -30,11 +30,11 @@ Our supervisor and valuable domain experts are involved in the projects
 -Dr.
 
 We are a group of 5 members with expertise in **software engineering, embedded systems, UI/UX design, and wildlife research**:
-- Akila Wanninayake – **Project Lead / Backend & Architecture**
+- Akila Wanninayake – **Project Lead / Research / Backend & Architecture**
 - Bhanuka Chathuranga – **Machine Learning & Data Processing**
-- Sampath Dissanayake – **IoT & Device Firmware**
-- Piyumi Paranavithanage – **UI/UX & Frontend**
-- Kaushika Weerakoon – **Testing, Deployment & Documentation**
+- Sampath Dissanayake – **IoT & Device Firmware and Project Management**
+- Piyumi Paranavithanage – **Testing, Deployment & Documentation**
+- Kaushika Weerakoon – **UI/UX & Frontend / IOT and Integration**
 
 ---
 
