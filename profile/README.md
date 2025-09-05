@@ -1,6 +1,6 @@
-# ELE-SCENT Organization
+# ELE-SCENT Project
 
-Welcome to the **ELE-SCENT GitHub Organization**!  
+Welcome to the **ELE-SCENT GitHub Project!**!  
 *We are a multidisciplinary team of engineering students, wildlife enthusiasts, and researchers working on **AI-powered solutions for elephant conservation**. Our project, **ELE-SCENT**, is an innovative system designed to detect and monitor wild elephants using **unique signatures, IoT, and embedded AI**.*
 ---
 
