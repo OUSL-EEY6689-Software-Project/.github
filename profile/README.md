@@ -16,7 +16,7 @@ Welcome to the **ELE-SCENT GitHub Project!**!
 To create an **AI-powered, low-cost, and scalable solution** that protects elephants and humans by enabling real-time, non-invasive wildlife monitoring.
 
 ### **Mission:**  
-- Develop and deploy **VOC-based elephant detection systems** using **IoT and machine learning**.
+- Develop and deploy **Organic signatue-based elephant detection systems** using **IoT and machine learning**.
 - Provide **real-time alerts** to wildlife officials and villagers in conflict zones.
 - Contribute to **conservation research** by collecting elephant odor datasets for future ecological studies.
 
